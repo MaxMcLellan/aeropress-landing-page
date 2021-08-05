@@ -1,0 +1,26 @@
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px 60px 60px 60px;
+}
+
+.card {
+  width: 239px;
+  height: 350px;
+  border-radius: 6px;
+  box-shadow: 0 0 5px rgb(230 230 230);
+  text-align: center;
+  padding: 20px;
+  border: 1px solid rgb(230,230,230);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+  background-color: rgba(39, 27, 24, 0.88);
+  color: white;
+  text-shadow: 2px 2px 6px rgb(107 107 107 / 59%);
+}
+
+.card img {
+  height: 308px;
+  border-radius: 6px;
+}

@@ -1,0 +1,24 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: #271b18;
+}
+
+.links a {
+  text-decoration: none;
+  color: white;
+  letter-spacing: 0.2em;
+}
+
+.links:hover {
+  color: rgb(197, 192, 192);
+}
+
+h5 {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: white;
+}
+
+.footer .fas {
+  color: red;
+}
